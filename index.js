@@ -16,5 +16,3 @@ newHeader.innerHTML = "John Nganga is the champion";
 newHeader.id = "victory";
 document.body.append(newHeader);
 
-console.log(newHeader);
-
